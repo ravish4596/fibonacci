@@ -18,3 +18,5 @@ function fibonacci(n) {
     return output;
 }
 console.log(fibonacci(8));
+
+module.exports = { fibonacci };
